@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: #fcd116;
+    background-color: #fcd116;
+    display: block;
+    height: 370px;
+}
+h2 {
+    color: #003893;
+    background-color: #003893;
+    display: block;
+    height: 180px;
+}
+h3 {
+    color: #ce1126;
+    background-color: #ce1126;
+    display: block;
+    height: 180px;
+}
